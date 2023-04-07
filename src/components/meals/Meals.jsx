@@ -5,7 +5,7 @@ import './Meals.css'
 
 const Meals = () => {
   return (
-    <section className='meals'>
+    <section className="meals">
       <MealsSummery />
       <AvailableMeals />
     </section>
