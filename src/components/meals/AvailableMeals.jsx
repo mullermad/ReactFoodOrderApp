@@ -23,6 +23,13 @@ const DummyMeals = [
     discription: "ethiopian food",
     price: 100.99,
   },
+  {
+    id: "m4",
+    name: "Spagetti Wot",
+    discription: "Italian food",
+    price: 5.99,
+  },
+ 
 ];
 
 const AvailableMeals = () => {

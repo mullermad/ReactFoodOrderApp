@@ -1,5 +1,6 @@
 import React from 'react'
 import Card from "../../UI/Card";
+import MealItemForm from './MealItemForm';
 import './MealItem.css';
 
 const MealItem = (props) => {
@@ -15,7 +16,7 @@ const MealItem = (props) => {
           <div className="mealItem-price">{price}</div>
         </div>
         <div>
-            {/* form will be implemented here */}
+            <MealItemForm />
         </div>
       </li>
     </Card>
