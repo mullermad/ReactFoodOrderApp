@@ -5,13 +5,8 @@ header{
     justify-content: space-between;
     
 }
-.header-button{
-  width: 60px;
-  height: 30px;
-  margin: 20px;
- 
-}
+
 .header-images{
     width: 100%;
-    height: 170px;
+    height: 150px;
 }
