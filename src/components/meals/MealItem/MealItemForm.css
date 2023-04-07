@@ -1,0 +1,19 @@
+.mealItemForm{
+ position: absolute;
+ right: 3rem;
+margin-top: -50px;
+}
+.form-button{
+    color: white;
+    font-family: monospace;
+    font-weight: bold;
+    height: 32px;
+    width: 85px;
+   margin: 3px;
+    border: none;
+    border-radius: 17px;
+    background-color: rgb(119, 9, 9);
+}
+/* .form-input{
+    
+} */
