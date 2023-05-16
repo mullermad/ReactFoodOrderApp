@@ -6,3 +6,13 @@
 li{
     list-style-type: none;
 }
+.isLoading{
+    text-align: center;
+    color: white;
+}
+.mealError{
+    text-align: center;
+    font-weight: bold;
+    font-size: large;
+    color: red;
+}
