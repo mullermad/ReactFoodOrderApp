@@ -1,0 +1,44 @@
+.checkoutforms{
+    display: flex;
+    flex-direction: column;
+     background-color: white;
+   overflow: scroll;
+}
+form{
+    overflow: scroll;
+}
+
+.control{
+    display: flex;
+    flex-direction: column;
+     
+   /* margin: 15px; */ 
+
+}
+input{
+    height: 23px;
+    width: 30%;
+    margin-left: 7px;
+    border-radius: 12px;
+}
+.buttons{
+    font-weight: bold;
+    font-size: 24px;
+    display: flex;
+    justify-content: space-evenly;
+
+    
+}
+.cancel-btn{
+    height: 28px;
+    background-color: white;
+    color: red;
+}
+.confirm-btn{
+    background-color: rgb(118, 14, 14);
+}
+button{
+    color: white;
+    width: 84px;
+    border-radius: 12px;
+}

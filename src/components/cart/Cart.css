@@ -44,6 +44,7 @@ margin-right:1rem;
 
 }
 
+
 .order-button{
     border: solid 1px red;
     color: white;
@@ -55,4 +56,44 @@ margin-right:1rem;
     border: solid 1px;
    color: rgb(180, 50, 50);
     background-color: rgb(242, 246, 246);
+}
+
+.sucess{
+ background-color: white;
+    width: 40%;
+    height: 100px;
+    margin-left: 12rem;
+   padding-left: 54px;
+   padding-top: 5px;
+   border-radius: 21px;
+   position: fixed;
+   top: 12rem;
+   right: 3rem;
+   z-index: 12;
+   overflow: scroll;
+}
+.sendingData{
+background-color: rgb(245, 229, 229);
+    width: 40%;
+    height: 100px;
+    margin-left: 12rem;
+   padding-left: 54px;
+   padding-top: 5px;
+   border-radius: 21px;
+   position: fixed;
+   top: 12rem;
+   right: 3rem;
+   z-index: 12;
+   overflow: scroll;
+}
+.sucess-btn{
+    
+    border: solid 1px;
+   color: rgb(180, 50, 50);
+  border-radius: 21px;
+   position: fixed;
+   top: 17rem;
+   right: 8rem;
+    z-index: 12;
+  
 }
